@@ -1,2 +1,2 @@
 # Real-time-ECG-Heartbeat-Classification
-Final project - Parallel and Distributed Computing
+Final project - DS104. Parallel and Distributed Computing
